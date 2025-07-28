@@ -1,0 +1,28 @@
+html, body{
+  height: 100%;
+}
+
+body{
+  background: url(../img/coffee_rorozoa_3_04.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.form-login{
+  background: rgb(151 120 120 / 52%);
+  max-width: 450px;
+  width: 100%;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.btn-primary{
+  background: #59331C;
+  border: 0;
+}
+
+.btn-primary:hover{
+  background: #591c1ce8;
+}
